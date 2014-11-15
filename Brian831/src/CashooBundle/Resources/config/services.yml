@@ -1,0 +1,4 @@
+services:
+    cashoo:
+        class: Brian831\CashooBundle\Services\Cashoo
+        arguments:    [@service_container]

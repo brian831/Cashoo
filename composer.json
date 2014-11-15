@@ -2,8 +2,8 @@
     "name": "brian831/cashoo-bundle",
     "description": "CashooBundle for Symfony",
     "type": "library",
-    "license": "MIT",
+    "license": "MIT",,
     "autoload": {
-        "psr-0": {"CashooBundle": "src/"}
+        "psr-0": {"Brian831\\CashooBundle" : "src"}
     }
 }
