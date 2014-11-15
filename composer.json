@@ -1,9 +1,9 @@
 {
-    "name": "cashoo",
-    "description": "Cashoo cache tool",
+    "name": "brian831/cashoo",
+    "description": "CashooBundle for Symfony",
     "type": "library",
     "license": "MIT",
     "autoload": {
-        "psr-0": {"Cashoo": "src/"}
+        "psr-0": {"CashooBundle": "src/"}
     }
 }
