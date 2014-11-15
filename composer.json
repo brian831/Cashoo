@@ -1,0 +1,9 @@
+{
+    "name": "cashoo",
+    "description": "Cashoo cache tool",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {"Cashoo": "src/"}
+    }
+}
